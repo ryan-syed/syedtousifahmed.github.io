@@ -1,0 +1,174 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Syed Tousif Ahmed
+    tagline: Software Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tousif.ahmed0902@gmail.com
+    phone: +91 9900012873
+    # website: blog.webjeda.com #do not add http://
+    linkedin: syedtousifahmed
+    github: syedtousifahmed
+    gitlab:
+    bitbucket:
+    # twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Native
+
+      - idiom: Bengali
+        level: Native
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Writing
+        link:
+
+      - item: Cooking
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      I am an extremely resourceful, creative, and industrious person who can retain feedback while exercising creative freedom to implement new ideas and improve the practices to help the organisation provide the customer an enriching experience.
+
+      - Excellent communication and interpersonal skills.
+      - Can be a good individual contributor as well as a strategic team player.
+      - Ability to multitask with efficiency, dedicated, punctual, flexible, keen eye for detail, and a friendly nature.
+      - Experience in delivering high grade infotainment systems for clients like GM, Scania, MAN, Chrysler, Hyundai, KIA Expertise in Bluetooth and Media HMI modules
+      - Quick learner and can grasp new technologies and develop production quality HMI interfaces
+      - Proficient in applying data structures and algorithms
+      - Ability to identify the need to implement the common design patterns.
+      - Strong emphasis on clean, maintainable and reusable code as well as the need to innovate for better user experience.
+
+
+education:
+    - degree: B.E. (Hons.) in Computer Science
+      university: BITS Pilani, Hyderabad Campus
+      time: 2008 - 2012
+      details:
+
+    - degree: Senior Secondary
+      university: Narayana Junior College
+      time: 2006 - 2008
+      details: 
+
+    - degree: Secondary
+      university: St. Martin's High School
+      time: 1998 - 2006
+      details: 
+
+experiences:
+    - role: Senior Associate Consultant
+      time: Dec 2018 - Present
+      company: Rythmos, Hyderabad
+      details: |
+        - Part of the Sustained Engineering team for Unity (client)
+        - Perform backporting, test authoring, test migrations, and integrating Version Control System for Unity Editor.
+
+    - role: Technical Leader
+      time: Mar 2017 - Dec 2018
+      company: Hyundai Mobis, Hyderabad
+      details: |
+        - Leading the Media module for Android based infotainment systems
+        - Designed and delivered Bluetooth application developed using Qt for Linux based stereo systems
+
+    - role: Senior Software Engineer
+      time: Sep 2015 - Dec 2016
+      company: HARMAN International, Bangalore
+      details: |
+        - Functional Owner of phone module in MAN/SCANIA project. Developed and designed a call framework, the first ofits kind, to support two simultaneous phone HFP (Bluetooth phone calling) connections to the same car stereo.
+        - Kick started the HMI (Human Machine Interface) project for Man-Scania and was involved in the design,requirements, development and maintenance phase (complete product lifecycle).
+        - As a functional owner of phone module, I led the execution strategy and mentored other peers.
+
+    - role: Software Engineer
+      time: Sep 2013 - Aug 2015
+      company: HARMAN International, Bangalore
+      details: |
+        - Wrote Android test applications for validating the services added in GM head units.
+        - Developed GM Infotainment HMI media module in Android.
+
+    - role: Associate Software Engineer
+      time: Jul 2012 - Jun 2013
+      company: HARMAN International, Bangalore
+      details: |
+        Developed proficiency in different modules of automotive space like tuner, media, phone, navigation by debugging and supporting Fiat-Chrysler Head units.
+
+    - role: Software Intern
+      time: Jul 2011 - Dec 2011 
+      company: eBay, Chennai
+      details: |
+        - Designed and developed the prototype of two mobile applications (for Seller analytics) in eBay targeting iOS,Android, and Blackberry using Flex with a Product Manager to validate his hypotheses.
+        - Developed an internal Data Documentation Tool that showed the metadata of the tables in the database for thedevelopment teams.
+
+
+
+projects:
+    title: Projects
+    intro: >
+      Side projects
+
+    assignments:
+      - title: Vibrance (Product Management & Prototyping)
+        tagline: Co-designed and developed a prototype(MVP) in a month’s time for the ambient social networking startup Vibrance, at its genesis stage.
+
+publications:
+    title: Certifications
+    intro: |
+      Certifications & Rewards
+
+    papers:
+      - title: IBM DB2 Fundamentals 
+        conference: Jul 2011
+
+      - title: Harman Hero Merit award, Harman International
+        authors: Outstanding effort and contribution to the timely delivery of MAN-SCANIA project
+        conference: Sep 2015
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C++
+        level: 90%
+
+      - name: Qt
+        level: 75%
+
+      - name: C#
+        level: 70%
+
+      - name: Java
+        level: 70%
+
+      - name: Android
+        level: 70%
+
+      - name: Unity
+        level: 40%
+
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: Python & Data Analysis
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by Tousif
