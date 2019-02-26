@@ -129,6 +129,10 @@ projects:
       - title: Vibrance (Product Management & Prototyping)
         tagline: Co-designed and developed a prototype(MVP) in a month’s time for the ambient social networking startup Vibrance, at its genesis stage.
 
+      - title: Lead capture page for Dream Tree
+        link: https://dreamtreebook.github.io/
+        tagline: Landing page and lead capture page for Dream Tree book with google analytics and mailchimp subsciber integration
+
 publications:
     title: Certifications
     intro: |
